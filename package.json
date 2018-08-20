@@ -1,0 +1,19 @@
+{
+  "name": "cpescrape",
+  "version": "1.0.0",
+  "description": "CPE Scraper",
+  "main": "cpescraper.js",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "puppeteer": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "WhichIsBetter",
+  "license": "ISC"
+}
